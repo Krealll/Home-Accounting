@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Account" Collapsed="true">
+    <Position X="3.25" Y="5.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABABBABAAAAEAAAAKAQIAAAAAQEAEAAAgAAAAAEA=</HashCode>
+      <FileName>Account.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Currency" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAABAAAAEAAAAAQIACAAEQEBAgAAkAQAACAA=</HashCode>
+      <FileName>Currency.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Deposit" Collapsed="true">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAEAAAQAAAAAIAAAQAAARABQAAAAAAgAQAAAAo=</HashCode>
+      <FileName>Deposit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expenses" Collapsed="true">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABQAAAAAAAAAAAAAAAQAAAAAAQAAAAQAgAQAAAAA=</HashCode>
+      <FileName>Expenses.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Income" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAABAAAQAAAAACQAAAAAAgAQAAAAA=</HashCode>
+      <FileName>Income.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonetaryOperation" Collapsed="true">
+    <Position X="1.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAgAAAAAiAAAAQAAAAAAQAAAAIAoAAAAAAA=</HashCode>
+      <FileName>MonetaryOperation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="12.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAACAAAAAAAAAAAAAQAAAQAAAAAAAAAACAAABAAAY=</HashCode>
+      <FileName>MainMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface&lt;T&gt;" Collapsed="true">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEAIAAAgAgAIACAAQAAAAIAAABBCAQAAAAAAA=</HashCode>
+      <FileName>Interface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAQIAAAAAAAAAmAAAQAAAECAAAAAAAAAAAAAA=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tree&lt;T&gt;" Collapsed="true">
+    <Position X="10.25" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAACGAADCAAACAIQgAoBSAAAAAAIABAAAQYAAAAA=</HashCode>
+      <FileName>Tree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="table" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQAAAAABABAICgAAAAAAACAAAAAAAAQAAEAAAA=</HashCode>
+      <FileName>table.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Myexception" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAABAA=</HashCode>
+      <FileName>Myexception.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="comparator" Collapsed="true">
+    <Position X="12.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACEAAAA=</HashCode>
+      <FileName>algorithm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inputexception" Collapsed="true">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Inputexception.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

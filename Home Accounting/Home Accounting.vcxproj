@@ -115,6 +115,38 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Account.h" />
+    <ClInclude Include="algorithm.h" />
+    <ClInclude Include="Currency.h" />
+    <ClInclude Include="Deposit.h" />
+    <ClInclude Include="Expenses.h" />
+    <ClInclude Include="File.h" />
+    <ClInclude Include="Income.h" />
+    <ClInclude Include="Inputexception.h" />
+    <ClInclude Include="Interface.h" />
+    <ClInclude Include="MainMenu.h" />
+    <ClInclude Include="MonetaryOperation.h" />
+    <ClInclude Include="Myexception.h" />
+    <ClInclude Include="table.h" />
+    <ClInclude Include="Tree.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Account.cpp" />
+    <ClCompile Include="algorithm.cpp" />
+    <ClCompile Include="Currencies.cpp" />
+    <ClCompile Include="Deposit.cpp" />
+    <ClCompile Include="Expenses.cpp" />
+    <ClCompile Include="MonetaryOperation.cpp" />
+    <ClCompile Include="File.cpp" />
+    <ClCompile Include="Income.cpp" />
+    <ClCompile Include="Inputexception.cpp" />
+    <ClCompile Include="HomeAccounting.cpp" />
+    <ClCompile Include="MainMenu.cpp" />
+    <ClCompile Include="Myexception.cpp" />
+    <ClCompile Include="table.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
